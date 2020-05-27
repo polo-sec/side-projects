@@ -16,9 +16,13 @@ global _start
 
 
 _start:
+	;rax is the return function
 	mov rax, 1		;This where execution starts
+	;rdi contains the commands first parameter
 	mov rdi, 1
+	;rsi contains the second parameter
 	mov rsi, msg 	;The actual message
+	;rdx contains the third parameter
 	mov rdx, 13		;Length of msg
 	syscall
 

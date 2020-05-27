@@ -1,14 +1,12 @@
 objfile=$1
 objfile+=".o"
-listfile=$1
-listfile+=".l"
 asmfile=$1
 asmfile+=".asm"
 echo 'Variables OK'
 echo 'Assembling...'
-nasm -f elf64 -F dwarf -g -o $objfile $asmfile
+nasm -f elf64 -o $objfile $asmfile
 echo 'Linking...'
-gcc -o $1 $objfile
+ld -o $1 $objfile
 echo 'Finished Assembling...'
 
 echo

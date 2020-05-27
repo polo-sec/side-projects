@@ -1,9 +1,5 @@
 section .data
 msg DB " abracadabra", 10, 0
-countto DW 1
-
-section .bss
-  ;countto resb 4  ;uninitialised variable - 4 bytes reserved
 
 section .text
 ; Start of main function
@@ -13,7 +9,7 @@ main:
   ;call getinput
 
   mov r8, 0  ; Counter
-  mov r9, 0
+  mov r9, 0  ;Count to
   mov r10, 0 ; Zeroing scratch register
   mov r11, 0 ; Zeroing scratch register
   mov r9, 5  ; Max Count

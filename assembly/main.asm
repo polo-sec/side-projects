@@ -20,3 +20,5 @@ Sub5x:
 	sub edi, esi	;Subtracts 5xint from second parameter
 	mov eax, edi	;Moves result into acc for return
 	ret
+
+	

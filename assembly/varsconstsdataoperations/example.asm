@@ -10,7 +10,7 @@ section .data
 
 ;When defining a constant use:
 	;EQU
-msg: db "Sum is correct\n"
+msg: db "Sum is correct", 10, 0
 
 section .text
 global _start
@@ -84,7 +84,7 @@ cmp rax, 50
 	;exit procedure
 	jmp .exit
 
-.exit: 
+.exit:
 	;exit syscall
 	mov rax, 60		;This is like exit()
 	;exit code
