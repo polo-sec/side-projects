@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52a2d4c2-b45f-4c48-8d97-2eca9f4a23e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WooGMZgavK1asDH9bPa7JQveJx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../IdeaProjects/javaBijele/src/com/company/Main.java" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="javafizzbuzz" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52a2d4c2-b45f-4c48-8d97-2eca9f4a23e2" name="Default Changelist" comment="" />
+      <created>1579825211409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579825211409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="129" y="124" key="FileChooserDialogImpl" timestamp="1581000500209">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="129" y="124" key="FileChooserDialogImpl/0.0.1366.732@0.0.1366.732" timestamp="1581000500209" />
+    <state width="641" height="160" key="GridCell.Tab.0.bottom" timestamp="1581000681324">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="641" height="160" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1581000681324" />
+    <state width="1643" height="412" key="GridCell.Tab.0.bottom/0.0.3378.1440@0.0.3378.1440" timestamp="1579827678082" />
+    <state width="1643" height="408" key="GridCell.Tab.0.bottom/62.0.3378.1440@62.0.3378.1440" timestamp="1580098415337" />
+    <state width="641" height="160" key="GridCell.Tab.0.center" timestamp="1581000681324">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="641" height="160" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1581000681324" />
+    <state width="1643" height="412" key="GridCell.Tab.0.center/0.0.3378.1440@0.0.3378.1440" timestamp="1579827678082" />
+    <state width="1643" height="408" key="GridCell.Tab.0.center/62.0.3378.1440@62.0.3378.1440" timestamp="1580098415337" />
+    <state width="641" height="160" key="GridCell.Tab.0.left" timestamp="1581000681324">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="641" height="160" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1581000681324" />
+    <state width="1643" height="412" key="GridCell.Tab.0.left/0.0.3378.1440@0.0.3378.1440" timestamp="1579827678082" />
+    <state width="1643" height="408" key="GridCell.Tab.0.left/62.0.3378.1440@62.0.3378.1440" timestamp="1580098415337" />
+    <state width="641" height="160" key="GridCell.Tab.0.right" timestamp="1581000681324">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="641" height="160" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1581000681324" />
+    <state width="1643" height="412" key="GridCell.Tab.0.right/0.0.3378.1440@0.0.3378.1440" timestamp="1579827678082" />
+    <state width="1643" height="408" key="GridCell.Tab.0.right/62.0.3378.1440@62.0.3378.1440" timestamp="1580098415337" />
+    <state x="354" y="3" key="SettingsEditor" timestamp="1581000016414">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="354" y="3" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1581000016414" />
+    <state x="2034" y="366" key="SettingsEditor/0.0.3378.1440@0.0.3378.1440" timestamp="1579827159241" />
+    <state x="364" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1580999949686">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="364" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.732@0.0.1366.732" timestamp="1580999949686" />
+    <state x="21" y="0" width="1335" height="731" key="new project wizard" timestamp="1581000678614">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="21" y="0" width="1335" height="731" key="new project wizard/0.0.1366.732@0.0.1366.732" timestamp="1581000678614" />
+    <state x="2251" y="344" key="run.anything.popup" timestamp="1580076692494">
+      <screen x="62" y="0" width="3378" height="1440" />
+    </state>
+    <state x="2189" y="344" key="run.anything.popup/0.0.3378.1440@0.0.3378.1440" timestamp="1579827254534" />
+    <state x="2251" y="344" key="run.anything.popup/62.0.3378.1440@62.0.3378.1440" timestamp="1580076692494" />
+    <state x="888" y="168" width="272" height="345" key="search.everywhere.popup" timestamp="1580738828841">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="888" y="168" width="272" height="345" key="search.everywhere.popup/0.0.1366.732@0.0.1366.732" timestamp="1580738828841" />
+    <state x="2196" y="330" width="672" height="678" key="search.everywhere.popup/0.0.3378.1440@0.0.3378.1440" timestamp="1579826363543" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
