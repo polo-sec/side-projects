@@ -11,21 +11,9 @@ echo 'Linking...'
 gcc -o $1 $objfile
 echo 'Finished Assembling...'
 
-echo
-echo
-echo
 echo "Executing..."
-echo
-echo
-echo
 
 chmod +x $1
 ./$1
 
-echo
-echo
-echo
 echo "Finished execution"
-echo
-echo
-echo
